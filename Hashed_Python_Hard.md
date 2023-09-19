@@ -1,9 +1,9 @@
 # Solution for [Hashed](https://trycrack.me/chall?ch=44)
 
-Name: Hashed
-Language: Python
-Difficulty: Hard
-Solves: 6
+Name: Hashed<br>
+Language: Python<br>
+Difficulty: Hard<br>
+Solves: 6<br>
 
 ### Steps to Solve the Challange
 1. Copy the code to a file and save it as `hashed.py`
